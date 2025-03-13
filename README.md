@@ -22,3 +22,27 @@ Report on fundamental exercises 10 Using Python
 # Steps Done
 
 10. Exercise 10: Wrote a program that asks the user to enter an amount in pounds (£) and the program calculates and converts an amount in dollar ($)
+
+# Assignment 2 
+
+Report on Data Stuctures using Python
+
+# Steps Done
+
+# Exercise 1: List
+1. Created a list of 5 random numbers and printed the list.
+2. Inserted 3 new values to the list and printed the updated list.
+3. Tried to use a for loop to print each element in the list.
+
+# Exercise 2: Dictionary
+1. Create a dictionary with keys 'name', 'age', and 'address' and values 'John', 25, and 'New York' respectively.
+2. Added a new key-value pair to the dictionary created in Q1 with key 'phone' and value '1234567890'.
+
+# Exercise 3: Set
+1. Created a set with values 1, 2, 3, 4, and 5.
+2. Added the value 6 to the set created in Q1.
+3. Removed the value 3 from the set created in Q1
+
+# Exercise 4: Tuple
+1. Created a tuple with values 1, 2, 3, and 4
+2. Printed the length of the tuple created in Q1.
