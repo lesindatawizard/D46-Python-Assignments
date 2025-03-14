@@ -46,3 +46,35 @@ Report on Data Stuctures using Python
 # Exercise 4: Tuple
 1. Created a tuple with values 1, 2, 3, and 4
 2. Printed the length of the tuple created in Q1.
+
+# Assignment 3
+
+Reports on Conditional and Looping statements using Python
+
+# Steps Done
+
+1. Exercise 2: Checked the the price of the movie tickets by providing output of the age.
+2. Exercise 4: Wrote a Python program to receive 3 numbers from the user and printed the greatest among them.
+3. Excercise 5: Found the factorial of a given number using loops.
+4. Exercise 6: Reversed a number using while loop.
+5. Exercise 7: Found the multiples of a number using loop.
+6. Exercise 8: Wrote a program to print the inputted value as it is and broke the loop when the value came 'done'.
+7. Exercise 9: Wrote a program that prints the numbers from 1 to 10.
+8. Exercise 10: Wrote a program to print the following pattern: 5 4 3 2 1 4 3 2 1 3 2 1 2 1 1
+
+# Assignement 3 (MonthsNames)
+
+Reports on Conditional and Looping statements using Python
+
+# Steps Done
+
+1. Exercise 1: Named the file: MonthNames.py and wrote a program that reads an integer value between 1 and 12 from the user and prints output the corresponding month of the year.
+
+# Assignment 3 (BodyMassIndex)
+
+Reports on Conditional and Looping statements using Python
+
+# Steps Done
+
+1. Exercise 3: Named the file: BodyMassIndex.py and wrote a program to calculate BMI and give weight status. Body Mass Index (BMI) is an internationally used measurement to check if the person is a healthy weight for the said height.
+
