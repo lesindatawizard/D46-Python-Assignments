@@ -78,3 +78,17 @@ Reports on Conditional and Looping statements using Python
 
 1. Exercise 3: Named the file: BodyMassIndex.py and wrote a program to calculate BMI and give weight status. Body Mass Index (BMI) is an internationally used measurement to check if the person is a healthy weight for the said height.
 
+# Assignment 4
+
+Reports on Function statements using Python
+
+# Steps Done
+
+1. Exercise 1: Created a function that takes in three arguments.
+2. Exercise 2: Wrote a function that takes in a list of strings and returns a new list with only the strings that have a length greater than or equal to 5.
+3. Exercise 3: Wrote a Python program to evaluate a given mathematical expression using the eval() function.
+4. Exercise 4: Wrote a Python program to filter out the prime numbers from a given list of integers using the filter() function.
+5. Exercise 5: Wrote a Python program to convert a list of strings to uppercase using the map() function.
+
+
+
