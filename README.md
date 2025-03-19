@@ -90,5 +90,20 @@ Reports on Function statements using Python
 4. Exercise 4: Wrote a Python program to filter out the prime numbers from a given list of integers using the filter() function.
 5. Exercise 5: Wrote a Python program to convert a list of strings to uppercase using the map() function.
 
+# Assignment 6
+
+Report on OOPs python part using Python
+
+# Steps Done
+
+1. Exercise 1: Build a program to manage a university's course catalog. Defined a base class Course that has the following properties: course_code: a string representing the course code course_name: a string representing the course name, credit_hours: an integer representing the credit hours for the course. Defined two subclasses CoreCourse and ElectiveCourse, which inherit from the Course class. CoreCourse should have an additional property required_for_major which is a boolean representing whether the course is required for a particular major. ElectiveCourse should have an additional property elective_type which is a string representing the type of elective.
+
+#  Assignment 6 (Employee)
+
+Report on OOPs python part using Python
+
+# Steps Done
+
+1. Exercise 2: Created a Python module named employee that contains a class Employee with attributes name, salary and methods get_name() and get_salary(). Wrote a program to use this module to create an object of the Employee class and display its name and salary.
 
 
