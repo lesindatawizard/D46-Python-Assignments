@@ -106,4 +106,23 @@ Report on OOPs python part using Python
 
 1. Exercise 2: Created a Python module named employee that contains a class Employee with attributes name, salary and methods get_name() and get_salary(). Wrote a program to use this module to create an object of the Employee class and display its name and salary.
 
+# Assignment 7
 
+Report on Numpy and Pandas part using Python
+
+# Steps Done
+
+Exercise 1: Created a numpy array containing the numbers from 1 to 10, and then reshaped it to a 2x5 matrix. 
+Exercise 2: Created a numpy array containing the numbers from 1 to 20, and then extracted the elements between the 5th and 15th index. 
+Exercise 3: Created a Pandas series with the following data: {'apples': 3, 'bananas': 2, 'oranges': 1}. Then, added a new item to the series with the key 'pears' and the value 4.
+
+# Assignment 7 (DataFrame)
+
+Report on Numpy and Pandas part using Python
+
+# Steps Done
+
+Exercise 4: Created a dataframe with the following columns: name, age, and gender. 
+Exercise 5: Added a new column to the data frame created in question 1, called occupation. The values added into this column should be Programmer, Manager, and Analyst, corresponding to the rows in the dataframe. 
+Exercise 6: Selected the rows of the dataframe where the age is greater than or equal to 30. 
+Exercise 7: Converted this dataframe to a csv file and read that csv file, finally displayed the contents.
