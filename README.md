@@ -90,6 +90,20 @@ Reports on Function statements using Python
 4. Exercise 4: Wrote a Python program to filter out the prime numbers from a given list of integers using the filter() function.
 5. Exercise 5: Wrote a Python program to convert a list of strings to uppercase using the map() function.
 
+# Assignment 5
+
+Reports on File and Exception Handling using Python
+
+# Steps Done
+
+1. Exercise 1: Wrote a Python program to read a file and display its contents Exercise
+2. Exercise 2: Wrote a Python program to copy the contents of one file to another file
+3. Exercise 3: Wrote a Python program to read the content of a file and counted the total number of words in that file. 
+4. Exercise 4: Wrote a Python program that prompts the user to input a string and converts it to an integer. Used try-except blocks to handle any exceptions that might occur
+5. Exercise 5: Wrote a Python program that prompts the user to input a list of integers and raises an exception if any of the integers in the list are negative.
+6. Exercise 6: Wrote a Python program that prompts the user to input a list of integers and computes the average of those integers. Used try-except blocks to handle any exceptions that might occur.finally claused to print a message indicating that the program has finished running.
+7. Exercise 7: Wrote a Python program that prompts the user to input a filename and writes a string to that file. Used try-except blocks to handle any exceptions that might occur and printed a welcome message if there is no exception occurred.
+
 # Assignment 6
 
 Report on OOPs python part using Python
