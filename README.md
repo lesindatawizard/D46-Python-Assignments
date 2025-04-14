@@ -140,3 +140,13 @@ Exercise 4: Created a dataframe with the following columns: name, age, and gende
 Exercise 5: Added a new column to the data frame created in question 1, called occupation. The values added into this column should be Programmer, Manager, and Analyst, corresponding to the rows in the dataframe. 
 Exercise 6: Selected the rows of the dataframe where the age is greater than or equal to 30. 
 Exercise 7: Converted this dataframe to a csv file and read that csv file, finally displayed the contents.
+
+# Assignment 8
+
+Report on Data Visualization using Python
+
+# Steps Done
+
+1. Exercise 1: Created a line plot using matplotlib pyplot that displays the population of four different cities over time.
+2. Exercise 2: Created a scatter plot using seaborn that shows the relationship between the number of hours studied and the test scores obtained by a group of students.
+3. Exercise 3: Created a bar chart using matplotlib pyplot that shows the total sales for each month of the year.
